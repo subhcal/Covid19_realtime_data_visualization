@@ -9,6 +9,14 @@ Streamlined COVID-19 data tracking by automating data collection, storage, and v
 
 This project automates the collection of real-time COVID-19 data using Python, stores the data in a PostgreSQL database, and connects the database to create an interactive Power BI dashboard for insightful visualization.
 
+## Screenshot
+
+Below is a screenshot of the PowerBI dashboard showcasing the Covid-19 Data visualization:
+
+![PowerBI Dashboard Screenshot (Desk1)](Screenshot%20(8).png)
+![PowerBI Dashboard Screenshot2 (Desk2)](Screenshot%20(10).png)
+![PowerBI Dashboard Screenshot (Phone)](Screenshot%20(11).png)
+
 ---
 
 ## Features
